@@ -1,6 +1,7 @@
 # Gestion de Configuración
 # Autor: lf.mendivelso10
 # Fecha: 21/08/2015
+# Ultima modificación: 21/08/2015
 #
 Django==1.8.4
 django-toolbelt==0.0.1
